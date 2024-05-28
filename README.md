@@ -1,2 +1,2 @@
-# Self-Driving-Car-ML
-Git repo for a self driving car ML.
+# Self-Driving Car Simulation Project using JavaScript
+Git repo to developed a self-driving car simulation from scratch using JavaScript without any libraries. Implemented car driving mechanics, environment definition, sensor simulation, and collision detection. Built and visualized a neural network to enable autonomous car control. Gained in-depth understanding of artificial neural networks by comparing them with biological neural networks in the human brain.
