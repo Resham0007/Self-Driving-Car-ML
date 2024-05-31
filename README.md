@@ -29,19 +29,19 @@ Insights and Learnings: Gained valuable insights into the strengths and limitati
 
 # Scope
 
-##Realistic Simulation:
-The project aims to create a realistic self-driving car simulation using JavaScript, without relying on external libraries. This involves simulating car mechanics, environment, sensors, and collision detection to provide a comprehensive understanding of autonomous driving systems.
-Neural Network Integration: Implement a neural network from scratch to process sensor data and control the car. This includes training the network to handle various driving scenarios and visualizing its decision-making process.
-Educational Tool: Serve as an educational tool for learning about neural networks and their application in autonomous driving. By comparing artificial neural networks with biological ones, it offers insights into both fields.
+## Realistic Simulation:
+1. The project aims to create a realistic self-driving car simulation using JavaScript, without relying on external libraries. This involves simulating car mechanics, environment, sensors, and collision detection to provide a comprehensive understanding of autonomous driving systems.
+2. Neural Network Integration: Implement a neural network from scratch to process sensor data and control the car. This includes training the network to handle various driving scenarios and visualizing its decision-making process.
+3. Educational Tool: Serve as an educational tool for learning about neural networks and their application in autonomous driving. By comparing artificial neural networks with biological ones, it offers insights into both fields.
 
 # Future Goals:
 
-##Enhanced Environment Complexity: 
-Expand the simulation to include more complex environments with varied road conditions, traffic, and dynamic obstacles. This will provide a more challenging and realistic testing ground for the neural network.
-Advanced Sensor Simulation: Integrate more advanced sensor simulations, such as cameras and radar, to improve the car's perception of its surroundings. This will enable more sophisticated decision-making and obstacle avoidance.
-Improved Neural Network Algorithms: Experiment with advanced neural network architectures and training techniques, such as convolutional neural networks (CNNs) and reinforcement learning, to enhance the car's autonomous capabilities.
-Real-Time Data Analysis: Implement real-time data analysis and visualization tools to better understand the neural network's performance and decision-making process. This will aid in debugging and optimizing the network.
-User Interaction: Add user interaction features to allow manual control and intervention during the simulation. This can help users understand the neural network's behavior and improve its training process.
-Open Source Collaboration: Open source the project to invite contributions from the developer community. This can lead to new features, optimizations, and broader usage as an educational resource.
-Cross-Platform Development: Explore cross-platform development options to run the simulation on various devices, including web browsers, mobile devices, and desktop applications.
-Integration with Hardware: Investigate the potential for integrating the simulation with real-world hardware, such as Arduino or Raspberry Pi, to create a physical self-driving car prototype. This would bridge the gap between simulation and real-world application.
+## Enhanced Environment Complexity: 
+1. Expand the simulation to include more complex environments with varied road conditions, traffic, and dynamic obstacles. This will provide a more challenging and realistic testing ground for the neural network.
+2. Advanced Sensor Simulation: Integrate more advanced sensor simulations, such as cameras and radar, to improve the car's perception of its surroundings. This will enable more sophisticated decision-making and obstacle avoidance.
+3. Improved Neural Network Algorithms: Experiment with advanced neural network architectures and training techniques, such as convolutional neural networks (CNNs) and reinforcement learning, to enhance the car's autonomous capabilities.
+4. Real-Time Data Analysis: Implement real-time data analysis and visualization tools to better understand the neural network's performance and decision-making process. This will aid in debugging and optimizing the network.
+5. User Interaction: Add user interaction features to allow manual control and intervention during the simulation. This can help users understand the neural network's behavior and improve its training process.
+6. Open Source Collaboration: Open source the project to invite contributions from the developer community. This can lead to new features, optimizations, and broader usage as an educational resource.
+7. Cross-Platform Development: Explore cross-platform development options to run the simulation on various devices, including web browsers, mobile devices, and desktop applications.
+8. Integration with Hardware: Investigate the potential for integrating the simulation with real-world hardware, such as Arduino or Raspberry Pi, to create a physical self-driving car prototype. This would bridge the gap between simulation and real-world application.
