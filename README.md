@@ -45,3 +45,23 @@ Insights and Learnings: Gained valuable insights into the strengths and limitati
 6. Open Source Collaboration: Open source the project to invite contributions from the developer community. This can lead to new features, optimizations, and broader usage as an educational resource.
 7. Cross-Platform Development: Explore cross-platform development options to run the simulation on various devices, including web browsers, mobile devices, and desktop applications.
 8. Integration with Hardware: Investigate the potential for integrating the simulation with real-world hardware, such as Arduino or Raspberry Pi, to create a physical self-driving car prototype. This would bridge the gap between simulation and real-world application.
+
+# Limitations:
+## Simplified Environment: 
+The simulated environment lacks the complexity of real-world scenarios, such as varying weather conditions and unpredictable human behavior.
+Limited Sensor Types: Currently simulates basic sensors; advanced sensors like cameras and radar are not yet implemented.
+Computational Constraints: Running a neural network in a JavaScript environment can be computationally intensive and may not perform as well as implementations in more specialized frameworks.
+Conclusion:
+The self-driving car simulation project successfully demonstrates the fundamental principles of autonomous driving and neural network application using JavaScript. It provides a solid foundation for understanding and developing more complex autonomous systems.
+
+# Results:
+## Functional Simulation: 
+Achieved a working simulation of a self-driving car with basic driving mechanics, environment interaction, and sensor-based navigation.
+Neural Network Integration: Successfully implemented and visualized a neural network for autonomous control, offering insights into its decision-making process.
+Educational Insights: Gained a deeper understanding of the similarities and differences between artificial and biological neural networks.
+
+# Advantages:
+## Hands-On Learning:
+Provides practical experience in building and understanding neural networks and their application in autonomous systems.
+No External Libraries: Demonstrates the ability to develop complex simulations and neural networks from scratch using pure JavaScript.
+Foundation for Future Work: Establishes a base for future enhancements, including more complex environments, advanced sensors, and improved neural network algorithms.
