@@ -1,4 +1,4 @@
-class Car{
+class Car{    //main code yeh hain!!!!!!!
     constructor(x,y,width,height,controlType,maxSpeed=3){
         this.x=x;
         this.y=y;
