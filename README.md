@@ -72,7 +72,7 @@ Educational Insights: Gained a deeper understanding of the similarities and diff
 8) Demonstrates capability in end-to-end project management from concept to execution.
 9) Showcases advanced application of JavaScript beyond web development.
 10) Highlights collaboration and project management skills in a technical context.
-11) 
+    
 ## Hands-On Learning:
 Provides practical experience in building and understanding neural networks and their application in autonomous systems.
 No External Libraries: Demonstrates the ability to develop complex simulations and neural networks from scratch using pure JavaScript.
